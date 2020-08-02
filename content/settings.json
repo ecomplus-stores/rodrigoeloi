@@ -1,22 +1,23 @@
 {
-  "store_id": 1142,
-  "name": "rodrigoeloi",
   "domain": "rodrigoeloi.netlify.app",
-  "short_name": "rodrigoeloi",
-  "description": ".",
+  "currency_symbol": "R$",
   "primary_color": "#333333",
-  "secondary_color": "#777777",
-  "bg_color": "#ffffff",
   "theme": {
-    "bootswatch": "_"
+    "bootswatch": "_",
+    "custom": "clean-gray"
   },
-  "logo": "/img/uploads/logo.png",
-  "mini_logo": "",
-  "icon": "/img/icon.png",
-  "large_icon": "/img/large-icon.png",
-  "favicon": "/img/uploads/favicon.png",
+  "bg_color": "#ffffff",
+  "logo": "/img/uploads/logomarca.png",
+  "name": "rodrigoeloi",
+  "short_name": "rodrigoeloi",
   "lang": "pt_br",
   "currency": "BRL",
-  "currency_symbol": "R$",
-  "country_code": "BR"
+  "mini_logo": "",
+  "favicon": "/img/uploads/favicon.png",
+  "country_code": "BR",
+  "secondary_color": "#777777",
+  "icon": "/img/uploads/capa-site-p-b-fundo-vazado.png",
+  "store_id": 1142,
+  "description": ".Oi, Sou o Rodrigo Eloi, artista plástico e convido-lhe a mergulhar no meu universo de formas abstratas onde utilizo os mais diversos materiais com experimentação e fluidez. Sobre as minhas obras, os elementos da natureza, do universo, do abstrato, do humano, do geométrico são bases sólidas das minhas criações.Oi, Sou o Rodrigo Eloi, artista plástico e convido-lhe a mergulhar no meu universo de formas abstratas onde utilizo os mais diversos materiais com experimentação e fluidez. Sobre as minhas obras, os elementos da natureza, do universo, do abstrato, do humano, do geométrico são bases sólidas das minhas criações.",
+  "large_icon": "/img/large-icon.png"
 }
