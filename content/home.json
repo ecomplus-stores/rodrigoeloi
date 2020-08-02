@@ -1,20 +1,21 @@
 {
-  "meta_title": "",
-  "meta_description": "",
+  "meta_title": "Flor de Metal - Arte – Decoração",
+  "meta_description": "Arte, decoração, casa, flor, flor de metal, peças de arte, decor, home, Rodrigo Eloi",
   "sections": [
     {
       "type": "banner-slider",
       "autoplay": 9000,
       "slides": [
         {
-          "img": "/img/uploads/rect89.webp",
+          "img": "/img/uploads/banner-loja-re.png",
           "link": "/headset",
-          "alt": "Headset banner",
+          "alt": "Série: Jardim Iluminado",
           "start": "2020-04-11T05:54:06.750Z",
-          "end": "2020-12-31T03:00:00.000Z"
+          "end": "2020-12-31T03:00:00.000Z",
+          "mobile_img": "/img/uploads/sji00130ab.jpg"
         },
         {
-          "img": "/img/uploads/banner2.webp",
+          "img": "/img/uploads/banner-loja-re-varias.png",
           "alt": "Banner sample two",
           "start": "",
           "end": ""
