@@ -13,6 +13,13 @@
           "start": "2020-04-11T05:54:06.750Z",
           "end": "2020-12-31T03:00:00.000Z",
           "mobile_img": "/img/uploads/banner-mobile-3.png"
+        },
+        {
+          "start": "2020-09-04T20:58:01.037Z",
+          "end": "2020-09-04T20:58:01.183Z",
+          "img": "/img/uploads/banner-mobile-2.png",
+          "mobile_img": "/img/uploads/banner-mobile-2.png",
+          "alt": "Promo"
         }
       ]
     },
@@ -39,6 +46,10 @@
       "type": "collection-shelf",
       "shuffle": true,
       "collection_id": "5f29ad43f023684cdbd74117"
+    },
+    {
+      "type": "banner-slider",
+      "autoplay": 9000
     }
   ]
 }
