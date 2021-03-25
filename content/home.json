@@ -1,6 +1,6 @@
 {
   "meta_title": "Objetos de Arte & Decoração",
-  "meta_description": "Arte, decoração, casa, flor, flor de metal, peças de arte, decor, home, Rodrigo Eloi",
+  "meta_description": "Arte, decoração, casa, flor, flor de metal, peças de arte, decor, home, gesso, aramado, Rodrigo Eloi",
   "sections": [
     {
       "type": "banner-slider",
@@ -17,7 +17,7 @@
         {
           "start": "2020-10-01T03:00:00.000Z",
           "end": "2020-12-18T03:00:00.000Z",
-          "img": "/img/uploads/banner-loja-re-varias.png",
+          "img": "/img/uploads/copia-de-design-sem-nome.png",
           "mobile_img": "",
           "alt": "Promo",
           "link": "/headset"
@@ -28,13 +28,13 @@
       "type": "info-bar",
       "enabled": true
     },
-        {
+    {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "collection_id": "602d2f019332dd6865d6a66e:categories:Arte em Gesso:/arte-em-gesso",
-      "title": "Decore com elegância e bom gosto!",
+      "collection_id": "60413d496d50911b60544adb:brands:Rodrigo Eloi:/rodrigo-eloi",
+      "title": "Decore com unicidade, elegância e bom gosto!",
       "sort": "slug"
     },
     {
