@@ -18,8 +18,13 @@
     "socials": true
   },
   "categories_list": {
-    "featured": [],
-    "random": 6,
+    "featured": [
+      "/escultura-de-base?Escultura de Base",
+      "/arte-em-gesso?Arte em Gesso",
+      "/jardim-iluminado?Jardim Iluminado",
+      "/quadros?Quadros"
+    ],
+    "random": 4,
     "full_width": false
   },
   "search_input": true
