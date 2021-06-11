@@ -1,17 +1,14 @@
 {
   "marketing_stripe": {
     "text": "Aproveite nossos descontos na compra de mais de uma obra!",
-    "link": "/promotion"
+    "link": "/promotion",
+    "background": "#fd1010"
   },
   "contacts_stripe": {
     "pages": [
       {
         "title": "Sobre nós",
         "link": "/pages/sobre-nos"
-      },
-      {
-        "title": "Esta loja é um PWA",
-        "link": "/posts/esta-loja-e-um-pwa"
       }
     ],
     "phone_wpp": true,
