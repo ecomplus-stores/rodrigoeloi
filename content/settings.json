@@ -1,7 +1,7 @@
 {
   "domain": "www.rodrigoeloi.art.br",
   "currency_symbol": "R$",
-  "primary_color": "#333333",
+  "primary_color": "#ff1616",
   "theme": {
     "bootswatch": "_",
     "custom": "clean-gray"
@@ -15,7 +15,7 @@
   "mini_logo": "",
   "favicon": "/img/uploads/favicon.png",
   "country_code": "BR",
-  "secondary_color": "#777777",
+  "secondary_color": "#ff1616",
   "icon": "/img/uploads/capa-site.jpg",
   "store_id": 1142,
   "description": "Obras únicas criadas com beleza, delicadeza e sofisticação para seu ambiente. Rodrigo Eloi é artista plástico e lhe convido a mergulhar em meu universo de formas abstratas onde utiliza os mais diversos materiais com experimentação e fluidez. Nas obras  predominam elementos da natureza, universo, abstrato, humano e do geométrico.",
