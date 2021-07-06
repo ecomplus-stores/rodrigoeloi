@@ -25,6 +25,13 @@
       ]
     },
     {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "605bd51ba46e555927c4a0cc:categories:Quadros:/quadros"
+    },
+    {
       "type": "info-bar",
       "enabled": true
     },
