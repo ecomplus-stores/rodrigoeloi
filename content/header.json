@@ -17,10 +17,10 @@
   },
   "categories_list": {
     "featured": [
+      "/quadros?Quadros",
+      "/escultura-em-aramado?Escultura em Aramado",
       "/escultura-de-base?Escultura de Base",
-      "/arte-em-gesso?Arte em Gesso",
-      "/jardim-iluminado?Jardim Iluminado",
-      "/quadros?Quadros"
+      "/jardim-iluminado?Jardim Iluminado"
     ],
     "random": 4,
     "full_width": false
