@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.e6332bc0a56ad555935d0582c54f3e36.jpeg",
+      "sizes": "512x512",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_384x384.17959aa236e1bec389d6ce53773dc681.jpeg",
+      "sizes": "384x384",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_192x192.03a1b9759c0ae048e06596810a4ffbdf.jpeg",
+      "sizes": "192x192",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_128x128.a83326d17ba76223f35b0220ebc64c6f.jpeg",
+      "sizes": "128x128",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_96x96.8222635daea5d3473c6822e26ed8db87.jpeg",
+      "sizes": "96x96",
+      "type": "image/jpeg"
+    }
+  ],
+  "name": "Rodrigo Eloi",
+  "short_name": "Rodrigo Eloi",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "Obras únicas criadas com beleza, delicadeza e sofisticação para seu ambiente. Rodrigo Eloi é artista plástico e lhe convido a mergulhar em meu universo de formas abstratas onde utiliza os mais diversos materiais com experimentação e fluidez. Nas obras  predominam elementos da natureza, universo, abstrato, humano e do geométrico.",
+  "background_color": "#ffffff",
+  "theme_color": "#ff1616"
+}
