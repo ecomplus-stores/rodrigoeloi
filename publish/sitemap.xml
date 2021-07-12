@@ -2,30 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
     <url>
-      <loc>https://www.rodrigoeloi.art.br/escultura-de-base</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://www.rodrigoeloi.art.br/escultura-em-aramado</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://www.rodrigoeloi.art.br/jardim-iluminado</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://www.rodrigoeloi.art.br/quadros</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
       <loc>https://www.rodrigoeloi.art.br/jardim-iluminado35</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
@@ -207,6 +183,12 @@
   
     <url>
       <loc>https://www.rodrigoeloi.art.br/jardim-iluminado2</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://www.rodrigoeloi.art.br/jardim-iluminado</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
     </url>
@@ -530,6 +512,30 @@
     </url>
   
     <url>
+      <loc>https://www.rodrigoeloi.art.br/obra-vortex-c639</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://www.rodrigoeloi.art.br/escultura-de-base</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://www.rodrigoeloi.art.br/escultura-em-aramado</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://www.rodrigoeloi.art.br/quadros</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
       <loc>https://www.rodrigoeloi.art.br/florescer</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
@@ -656,13 +662,13 @@
     </url>
   
     <url>
-      <loc>https://www.rodrigoeloi.art.br/admin/index</loc>
+      <loc>https://www.rodrigoeloi.art.br/app/index</loc>
       <changefreq>monthly</changefreq>
       <priority>0.6</priority>
     </url>
   
     <url>
-      <loc>https://www.rodrigoeloi.art.br/app/index</loc>
+      <loc>https://www.rodrigoeloi.art.br/admin/index</loc>
       <changefreq>monthly</changefreq>
       <priority>0.6</priority>
     </url>
